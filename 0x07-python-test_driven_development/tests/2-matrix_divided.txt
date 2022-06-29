@@ -171,7 +171,7 @@ Checking for 1 arg:
 	 >>> matrix_divided(matrix)
 	 Traceback (most recent call last):
 	 ...
-	 TypeError: matrix_divided() missing 1 required positional argument: 'div'
+    	 TypeError: matrix_divided() missing 1 required positional argument: 'div'
 
 Checking for more than 2 args:
 	 >>> matrix_divided(matrix, 1, 3)
